@@ -1,0 +1,5 @@
+langchain_community
+bs4
+streamlit
+langchain_groq
+langchain_core
